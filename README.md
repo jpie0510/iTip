@@ -1,4 +1,0 @@
-# iTip
-tip calculator
-
-test
