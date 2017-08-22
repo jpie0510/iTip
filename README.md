@@ -1,2 +1,4 @@
 # iTip
-my 1st Xcode project
+tip calculator
+
+test
